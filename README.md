@@ -1,13 +1,13 @@
 android_scripts
 ===============
 
-Helpful scripts for build Android Open Source Project
+Helpful scripts for build CM-12.0
 
 QuickStart:
 
-    git clone https://github.com/AndroidOpenSourceXperia/android_scripts.git -b lollipop aosx;
-    cd aosx;
-    ./repo init -u https://android.googlesource.com/platform/manifest -b android-5.0.1_r1;
+    git clone https://github.com/alwaysadeel/android_scripts.git -b cm-12.0 cm12;
+    cd cm12;
+    ./repo init -u git://github.com/CyanogenMod/android.git -b cm-12.0;
     ./Update.sh;
     ./CompileROM.sh -u; (Xperia U)
     ./CompileROM.sh -p; (Xperia P)   
