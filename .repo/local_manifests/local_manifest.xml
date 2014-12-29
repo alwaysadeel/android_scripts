@@ -37,5 +37,6 @@
     <project path="external/bluetooth/bluez"      name="AndroidOpenSourceXperia/android_external_bluetooth_bluez"     remote="github"     revision="5.25" />
     <project path="external/bluetooth/sbc"        name="bluetooth/sbc"                                                remote="kernel"     revision="master"         groups="pdk" />
     <project path="external/bluetooth/glib"       name="aosp-bluez.glib"                                              remote="googlecode" revision="master"         groups="pdk" />
-
+    <project path="ste_patches"                   name="Agontuk/ste_patches"                                     remote="github"     revision="cm-12.0" />
+    
 </manifest>
