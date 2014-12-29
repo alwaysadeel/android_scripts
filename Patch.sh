@@ -7,4 +7,4 @@ patch -p1 < ste_patches/frameworks/av/002_ste_audio.patch
 patch -p1 < ste_patches/frameworks/native/001_ste_multimedia.patch
 patch -p1 < ste_patches/frameworks/native/002_hwc_0.3.patch
 patch -p1 < ste_patches/frameworks/native/003_misc_fix.patch
-patch -p1 < ste_patches/hardware/libhardware/001_hwcomposrr_0.3.patch
+patch -p1 < ste_patches/hardware/libhardware/001_hwcomposer_0.3.patch
